@@ -16,7 +16,7 @@ let client = new Client();
 //// IMPORTANT VVV
 let token = process.env.SECRET //Your token goes in key.env (Discord bot)
 let prefix = ';'; // Discord bot prefix
-let rolename = "rolenamehere"
+let rolename = "pro ban boi"
 /// IMPORTANT ^^^
 
 let numbers = [
